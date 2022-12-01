@@ -11,7 +11,7 @@ npx create-next-app --example with-tailwindcss with-tailwindcss-app
 yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
-## troubleshooting
+## Troubleshooting
 
 If you use npx create the project you might run into some problem, you can check link below or just use yarn to create project
 https://github.com/tailwindlabs/tailwindcss/discussions/2833
