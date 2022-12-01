@@ -21,12 +21,12 @@ yarn add -D prettier prettier-plugin-tailwindcss
 
 # Get started with Tailwind CSS
 
-https://tailwindcss.com/docs/installation
+https://tailwindcss.com/docs/installation  
 search the class you need, if you need style font size, you could click search input on the left side bar, enter font size, and you will find the class you need.
 
 # Using arbitrary values
 
-https://tailwindcss.com/docs/adding-custom-styles#using-arbitrary-values
+https://tailwindcss.com/docs/adding-custom-styles#using-arbitrary-values  
 sometimes you need a sepcific value, you might want to use arbitrary values
 
 `w-[22px] equals to width: 22px;`
