@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .navBorder {
+    @apply w-[15px] bg-[#D6D6D6];
+    height: 1px;
+  }
+}
